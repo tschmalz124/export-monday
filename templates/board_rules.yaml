@@ -1,0 +1,5 @@
+## Yaml file to identify keywords for including/excluding Monday boards
+## Use a list if more than one
+keywords:
+  include: ''
+  exclude: ''
